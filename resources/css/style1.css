@@ -1,0 +1,5 @@
+.donate{
+    background-image:linear-gradient(rgba(0,0,0,.3),rgb(0,0,0,.7)), url(img/bg1.jpg);
+    width: 300px;
+    height: auto;
+}
